@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.mt-50{
+  margin-top: 50px;
+}
+.mt-15{
+  margin-top: 15px;
+}
+.sort-slectted::after{
+  content: '\f00c';
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  margin: 0px 0px 0px 10px;
+  display: inline-block;
+
+}
